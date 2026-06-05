@@ -1,4 +1,4 @@
-<h1 align="center">Sandeep Eti</h1>
+<h1 align="center">Sandeep Ettukuri</h1>
 <h3 align="center">Solution Architect & Principal Engineer · Sweya AI · India</h3>
 
 <br/>
@@ -31,13 +31,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtiSandeep&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtiSandeep&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+<!--
+  Native GitHub contribution graph — always works, no third-party dependency.
+  Replace EtiSandeep with your username if it ever changes.
+-->
+
+![EtiSandeep's GitHub activity graph](https://github.com/EtiSandeep/EtiSandeep/blob/output/github-contribution-grid-snake.svg)
+
+> 💡 **To enable the snake animation above**, add this GitHub Actions workflow to your profile repo:
+> `.github/workflows/snake.yml` — see setup instructions below.
+
+<details>
+<summary>📋 Snake animation setup (click to expand)</summary>
+</details>
 
 ---
 
