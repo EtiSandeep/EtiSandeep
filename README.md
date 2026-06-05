@@ -43,9 +43,9 @@
 ---
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=EtiSandeep&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&dates=888780)](https://streak-stats.demolab.com)
+  <img src="https://streak-stats.demolab.com?user=EtiSandeep&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&dates=888780" height="165" />
   &nbsp;
-  [![EtiSandeep's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EtiSandeep&layout=compact&hide_border=true&bg_color=00000000&title_color=444441&text_color=888780&cache_seconds=86400)](https://github.com/EtiSandeep?tab=repositories)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtiSandeep&layout=compact&hide_border=true&bg_color=00000000&title_color=444441&text_color=888780&cache_seconds=86400" height="165" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EtiSandeep&style=flat-square&color=1D9E75&label=profile+views" />
