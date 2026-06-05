@@ -40,6 +40,16 @@
 
 ![EtiSandeep's GitHub activity graph](https://github.com/EtiSandeep/EtiSandeep/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EtiSandeep&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&dates=888780" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtiSandeep&layout=compact&hide_border=true&title_color=444441&text_color=888780&bg_color=00000000&langs_count=6" height="165" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EtiSandeep&style=flat-square&color=1D9E75&label=profile+views" />
+</p>
 
 ---
 
