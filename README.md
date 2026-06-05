@@ -40,9 +40,6 @@
 
 ![EtiSandeep's GitHub activity graph](https://github.com/EtiSandeep/EtiSandeep/blob/output/github-contribution-grid-snake.svg)
 
-> 💡 **To enable the snake animation above**, add this GitHub Actions workflow to your profile repo:
-> `.github/workflows/snake.yml` — see setup instructions below.
-
 <details>
 <summary>📋 Snake animation setup (click to expand)</summary>
 </details>
