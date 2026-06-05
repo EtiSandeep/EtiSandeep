@@ -1,0 +1,26 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: anuraghazra/github-readme-stats@master
+        id: stats
+        with:
+          username: EtiSandeep
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: DenverCoder1/readme-streak-stats@main
+        with:
+          user: EtiSandeep
+          token: ${{ secrets.GITHUB_TOKEN }}

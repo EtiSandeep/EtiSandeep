@@ -43,9 +43,9 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EtiSandeep&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&dates=888780" height="165" />
+  <img src="https://raw.githubusercontent.com/EtiSandeep/EtiSandeep/output/streak.svg" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtiSandeep&layout=compact&hide_border=true&bg_color=00000000&title_color=444441&text_color=888780&cache_seconds=86400" height="165" />
+  <img src="https://raw.githubusercontent.com/EtiSandeep/EtiSandeep/output/langs.svg" height="165" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EtiSandeep&style=flat-square&color=1D9E75&label=profile+views" />
