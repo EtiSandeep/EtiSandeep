@@ -1,4 +1,4 @@
-<h1 align="center">Sandeep Ettukuri</h1>
+<h1 align="center">Sandeep Eti</h1>
 <h3 align="center">Solution Architect & Principal Engineer · Sweya AI · India</h3>
 
 <br/>
@@ -40,9 +40,6 @@
 
 ![EtiSandeep's GitHub activity graph](https://github.com/EtiSandeep/EtiSandeep/blob/output/github-contribution-grid-snake.svg)
 
-<details>
-<summary>📋 Snake animation setup (click to expand)</summary>
-</details>
 
 ---
 
